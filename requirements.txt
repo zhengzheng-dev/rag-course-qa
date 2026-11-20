@@ -14,3 +14,7 @@ openai==3.1.0
 
 # 数值计算
 numpy==2.5.2
+
+# API 服务
+fastapi==0.165.0           # HTTP 接口框架
+uvicorn==0.52.3            # ASGI 服务器
