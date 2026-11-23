@@ -2,7 +2,7 @@
   {
     "id": "q01",
     "category": "single_hop",
-    "question": "期末考几种题型？每种多少分？",
+    "question": "Java 高级编程期末考几种题型？每种多少分？",
     "answerable": true,
     "expect_sources": [{"file": "Java高级编程", "page": 3}],
     "expect_keywords": ["单选题", "判断题", "简答题", "程序分析题", "编程题"],
